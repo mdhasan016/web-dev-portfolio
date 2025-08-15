@@ -218,7 +218,7 @@ color: gray;
     width: 50%;
  }
 
- footer input[type="text"], footer input[type="email"]{
+ footer input[type="text"], footer input[type="email"], footer textarea{
 height: 64px;
 border-radius: 5px;
 background-color: white;
